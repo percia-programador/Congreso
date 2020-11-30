@@ -1,0 +1,6 @@
+C:\Users\Personal\Documents\SharpDevelop Projects\Congreso\Congreso\obj\Debug\Congreso.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\SharpDevelop Projects\Congreso\Congreso\bin\Debug\Congreso.exe.config
+C:\Users\Personal\Documents\SharpDevelop Projects\Congreso\Congreso\bin\Debug\Congreso.exe
+C:\Users\Personal\Documents\SharpDevelop Projects\Congreso\Congreso\bin\Debug\Congreso.pdb
+C:\Users\Personal\Documents\SharpDevelop Projects\Congreso\Congreso\obj\Debug\Congreso.exe
+C:\Users\Personal\Documents\SharpDevelop Projects\Congreso\Congreso\obj\Debug\Congreso.pdb
