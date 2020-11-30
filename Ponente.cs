@@ -38,6 +38,15 @@ namespace Congreso
 			
 		}
 		
+		//Acontinuacion los metdodos de esta clase
+		
+		//Mostrar los oyentes
+		public void MostrarOyentes(){
+			
+			
+			
+		}
+		
 		public Ponente()
 		{
 		}

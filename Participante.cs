@@ -74,7 +74,27 @@ namespace Congreso
 			
 		}
 		
+		//Acontinuacion los metdodos de esta clase
 		
+				//public void MenuParticipante(){
+			
+				//	Console.WriteLine("1. Introducir Ponente. \n2. Introducir Oyente. \n3. Regresar");
+			
+				//	}
+		
+		//Itroducir a los paticipantes
+		public void IntroducirParticipante(){
+			
+			
+			
+		}
+		
+		//Buscara a algun participante porsu nombre
+		public void BuscarParticipante(){
+			
+			
+			
+		}
 		
 		
 		
